@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+=====================
 
-You can use the [editor on GitHub](https://github.com/ValdezKerry/Introduction-webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## First name, Last name
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Give yourself a silly title, aka, nickname 
+![ChangeMe](https://www.jjay.cuny.edu/sites/default/files/forensic_science_tile.jpg)
 
-### Markdown
+change.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+@Changeme
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+=====================
 
-1. Numbered
-2. List
+### Me In A Nutshell
 
-**Bold** and _Italic_ and `Code` text
+> Sartorial schlitz ugh excepteur officia, placeat you probably haven't heard of them aute typewriter laborum culpa. Reprehenderit DIY microdosing roof party vinyl. Pug bespoke single-origin coffee distillery, austin culpa voluptate quis keytar. Ennui seitan health goth, gluten-free pop-up VHS truffaut. 
 
-[Link](url) and ![Image](src)
-```
+> Affogato food truck sint, kinfolk yr cornhole single-origin coffee artisan chambray banh mi. Selfies authentic cred crucifix, flexitarian thundercats cronut pug disrupt health goth. Crucifix magna ex, etsy kale chips tote bag jean shorts.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+=====================
 
-### Jekyll Themes
+### Superpowers 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValdezKerry/Introduction-webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- I can mold minds 
+- Cat rangler
+- Mom 
 
-### Support or Contact
+=====================
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Where I see myself in 10 years
+Location
+occupation
+Family life
+
+=====================
+
+### Favorite music artist
+
+- First 
+- Second
+- Third 
+
+======================
+
+### Favorite movie or TV show
+
+- First
+- Second
+- Third
